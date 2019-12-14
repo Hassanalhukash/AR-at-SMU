@@ -1,2 +1,2 @@
 # AR-at-SMU
-Augmented Reality Experience at SMU
+Our objective for this project is to build an augmented reality application for smartphone users so that it increases the interest level of Saint Martin’s University visitors and increase the level of student/staff engagement around campus. The goals for our project is to build a bug free Android application that users can enjoy. Our application scans QR-codes and changes them into an image instantly. The users will use the camera on their smartphones and scan the QR-codes we provided to see through their screens that the QR-code changes to an image or video. 
